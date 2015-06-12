@@ -23,7 +23,8 @@ Vcs-Git: https://github.com/plasma-mobile/plasma-phone-components-packaging.git
 Package: plasma-phone-components
 Architecture: any
 Depends: plasma-workspace,
-         qtwayland,
+         qml-module-org-kde-kio,
+         qml-module-org-kde-kquickcontrols,
          ttf-oxygen-font-family,
          ${misc:Depends},
          ${shlibs:Depends}

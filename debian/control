@@ -6,6 +6,7 @@ XSBC-Original-Maintainer: Boudewijn Rempt <boud@valdyas.org>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
+               kwayland-dev,
                libkf5declarative-dev,
                libkf5notifications-dev,
                libkf5service-dev,

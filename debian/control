@@ -25,6 +25,7 @@ Vcs-Git: https://github.com/plasma-mobile/plasma-phone-components-packaging.git
 Package: plasma-phone-components
 Architecture: any
 Depends: breeze-icon-theme,
+         milou,
          plasma-workspace,
          qml-module-org-kde-kio,
          qml-module-org-kde-kquickcontrols,

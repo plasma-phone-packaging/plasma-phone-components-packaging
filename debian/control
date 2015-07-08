@@ -26,6 +26,7 @@ Package: plasma-phone-components
 Architecture: any
 Depends: breeze-icon-theme,
          milou,
+         phonon4qt5,
          plasma-workspace,
          qml-module-org-kde-kio,
          qml-module-org-kde-kquickcontrols,

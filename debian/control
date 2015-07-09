@@ -34,3 +34,13 @@ Depends: breeze-icon-theme,
          ${shlibs:Depends}
 Description: Plasma Phone Components
  This package contains the home screen for the phone.
+
+Package: plasma-phone-components-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: plasma-phone-components (= ${binary:Version}), ${misc:Depends}
+Description: Plasma Phone Components
+ This package contains the home screen for the phone.
+ .
+ This package contains debugging symbols.

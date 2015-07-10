@@ -29,6 +29,7 @@ Depends: breeze-icon-theme,
          plasma-workspace,
          qml-module-org-kde-kio,
          qml-module-org-kde-kquickcontrols,
+         qml-module-qtquick-localstorage,
          ttf-oxygen-font-family,
          ${misc:Depends},
          ${shlibs:Depends}

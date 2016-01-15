@@ -32,6 +32,7 @@ Depends: breeze-icon-theme,
          qml-module-org-kde-kquickcontrols,
          qml-module-qtquick-localstorage,
          ttf-oxygen-font-family,
+         kpeople-vcard,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Plasma Phone Components

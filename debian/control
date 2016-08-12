@@ -28,6 +28,7 @@ Architecture: any
 Depends: breeze-icon-theme,
          milou,
          plasma-workspace,
+         powerdevil,
          qml-module-org-kde-kio,
          qml-module-org-kde-kquickcontrols,
          qml-module-qtquick-localstorage,

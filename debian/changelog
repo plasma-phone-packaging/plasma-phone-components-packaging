@@ -5,6 +5,11 @@ plasma-phone-components (0.7+kubuntu1-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Bhushan Shah ]
   * Add kpeople-vcard as dep of plasma-phone-components
+  
+  [ JBBgameich]
+  * Update vcs-links
+  * Update to standards version 3.9.8 and compat level 10
+  * Replace all dependencies on transitional packages
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 12 Jun 2015 21:06:34 +0200
 
